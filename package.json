@@ -1,0 +1,8 @@
+{
+  "name": "orbita-mission-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Simulador educativo de cohetes ESTES e hidrocohetes",
+  "scripts": { "start": "node server.mjs", "test": "node --test tests/*.test.mjs", "check": "node --check dist/app.js && node --check dist/physics.js" }
+}
