@@ -7,7 +7,7 @@ Aplicación web en español para explorar cohetes de modelismo con motores ESTES
 Requiere Node.js 20 o posterior. La aplicación no necesita paquetes ni compilación para ejecutarse.
 
 ```powershell
-cd C:\Users\netza\Downloads\TEST_VISUALSTUDIO\mission-control
+cd C:\Users\user_name\mission-control
 node server.mjs
 ```
 
